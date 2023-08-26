@@ -1,1 +1,30 @@
+Content License Agreement
 
+**Introduction**
+Welcome to [Your Website Name]. This page outlines the terms under which you can use the content available on our website.
+
+**License Type**
+All content on this website is licensed under the [Specify License Type, e.g., Creative Commons Attribution 4.0 International License].
+
+**Usage Rights**
+- You are free to use the content for both personal and commercial purposes.
+- You can modify the content to suit your needs.
+
+**Attribution**
+- If you use our content, please provide proper attribution by including our name and a link back to [Your Website URL].
+
+**Limitations**
+- Do not use the content for illegal or harmful purposes.
+- Do not imply endorsement or affiliation with our website without proper authorization.
+
+**Disclaimers**
+- We strive for accuracy, but we cannot guarantee the accuracy or reliability of the content.
+- We are not responsible for any damages resulting from your use of the content.
+
+**Termination**
+- We reserve the right to terminate or modify this license agreement at any time.
+
+Please review and understand these terms before using our content.
+
+[Contact Information]
+If you have any questions or need clarification about these terms, please contact us at [Your Contact Email].
