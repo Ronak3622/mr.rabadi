@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Responsive Content Switching</title>
+</head>
+
+<body>
+    <div id="content"></div>
+
+    <script>
+        const contentContainer = document.getElementById('content');
+
+        function loadMobileContent() {
+            contentContainer.innerHTML = `
+    <h1>Welcome to the Mobile Version</h1>
+    <p>This content is optimized for mobile devices.</p>
+  `;
+        }
+
+        function loadDesktopContent() {
+            contentContainer.innerHTML = `
+    <h1>Welcome to the Desktop Version</h1>
+    <p>This content is optimized for desktop devices.</p>
+  `;
+        }
+
+        function determineScreenSize() {
+            if (window.innerWidth <= 768) {
+                loadMobileContent();
+            } else {
+                loadDesktopContent();
+            }
+        }
+
+        // Initial content loading
+        determineScreenSize();
+
+        // Update content when the window is resized
+        window.addEventListener('resize', determineScreenSize);
+
+    </script>
+</body>
+
+</html>
